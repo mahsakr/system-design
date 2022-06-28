@@ -47,6 +47,7 @@ Learn how to design large-scale systems.
 * What is API Idempotency and Why Is It Important?: https://www.youtube.com/watch?v=6pjGuuGsqxE
 * this is my architecture: https://www.youtube.com/watch?v=99nNHsbwBpg
 * How to Build Observable Distributed Systems: https://www.youtube.com/watch?v=ACL_YVPD3gw
+* DataLake
 * Cucumber
 * Java 11
 * Grafana
@@ -56,3 +57,15 @@ Learn how to design large-scale systems.
 * https://www.youtube.com/c/IBMTechnology/playlists
 
 # Reading done
+
+# References and highly recommended readings
+
+[1] The Pragmatic Programmer: From journeyman to master
+
+[2] Clean Code: A Handbook of Agile Software Craftsmanship
+
+[3] Head First Design Patterns
+
+[4] Design Patterns: Elements of reusable object-oriented software
+
+[5] Clean Architecture: A Craftsman's Guide to Software Structure and Design
