@@ -2,11 +2,17 @@
 
 Learn how to design large-scale systems.
 
+```
+# commit changes:
+git add . && git commit -m "update" && git push
+```
+
 # Current Reading
 
 * ByteByteGo: https://bytebytego.com/courses/system-design-interview/design-a-rate-limiter
 
 * Spring: https://www.youtube.com/watch?v=CJjHdchLY9Y&list=PLwvrYc43l1MzeA2bBYQhCWr2gvWLs9A7S&index=11
+    * https://confluence.jumia.com/display/AFRPAY/JPAY+-+POC+-+Configuration+Update+using+Spring+Config+Server
 
 * Design Microservice Architectures the Right Way: https://www.youtube.com/watch?v=j6ow-UemzBc&list=RDCMUCkQX1tChV7Z7l1LFF4L9j_g&index=4
 
