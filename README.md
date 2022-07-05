@@ -4,13 +4,14 @@ Learn how to design large-scale systems.
 
 # Current Reading
 
-* ByteByteGo: https://bytebytego.com/courses/system-design-interview/a-framework-for-system-design-interviews
+* ByteByteGo: https://bytebytego.com/courses/system-design-interview/design-a-rate-limiter
 
+* Spring: https://www.youtube.com/watch?v=CJjHdchLY9Y&list=PLwvrYc43l1MzeA2bBYQhCWr2gvWLs9A7S&index=11
 
 * Design Microservice Architectures the Right Way: https://www.youtube.com/watch?v=j6ow-UemzBc&list=RDCMUCkQX1tChV7Z7l1LFF4L9j_g&index=4
-* Not Just Events: Developing Asynchronous Microservices • Chris Richardson: https://www.youtube.com/watch?v=
-* https://www.spreedly.com/blog/applying-distributed-systems-design-principles-to-your-payments-flow
+
 * https://newsletter.pragmaticengineer.com/p/designing-a-payment-system?s=r
+
 * https://www.google.com/search?q=system+design+payment&rlz=1C5CHFA_enAE986AE986&oq=sys&aqs=chrome.1.69i57j35i39j0i67i131i433l2j0i433i512j0i131i433i512j0i512j0i131i433i512j0i512j0i131i433i512.3436j0j15&sourceid=chrome&ie=UTF-8
 
 =================================================
@@ -55,7 +56,6 @@ Learn how to design large-scale systems.
 * What is API Idempotency and Why Is It Important?: https://www.youtube.com/watch?v=6pjGuuGsqxE
 * this is my architecture: https://www.youtube.com/watch?v=99nNHsbwBpg
 * How to Build Observable Distributed Systems: https://www.youtube.com/watch?v=ACL_YVPD3gw
-* DataLake
 * Cucumber
 * Terraform
 * Java 11
@@ -66,6 +66,9 @@ Learn how to design large-scale systems.
 * https://www.youtube.com/c/IBMTechnology/playlists
 
 # Reading done
+* DataLake
+
+* Not Just Events: Developing Asynchronous Microservices • Chris Richardson: https://www.youtube.com/watch?v=kyNL7yCvQQc
 
 # References and highly recommended readings
 
