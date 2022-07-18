@@ -14,6 +14,8 @@ git add . && git commit -m "update" && git push
 * Spring: https://www.youtube.com/watch?v=CJjHdchLY9Y&list=PLwvrYc43l1MzeA2bBYQhCWr2gvWLs9A7S&index=11
     * https://confluence.jumia.com/display/AFRPAY/JPAY+-+POC+-+Configuration+Update+using+Spring+Config+Server
 
+* https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+
 * Design Microservice Architectures the Right Way: https://www.youtube.com/watch?v=j6ow-UemzBc&list=RDCMUCkQX1tChV7Z7l1LFF4L9j_g&index=4
 
 * https://newsletter.pragmaticengineer.com/p/designing-a-payment-system?s=r
@@ -70,6 +72,7 @@ git add . && git commit -m "update" && git push
 * Kibana
 * packer.io
 * https://www.youtube.com/c/IBMTechnology/playlists
+* https://www.coursera.org/learn/containerized-applications-on-aws?utm_medium=institutions&utm_source=aws&utm_campaign=aws-course-announcement-email-jul2022#about
 
 # Reading done
 * DataLake
