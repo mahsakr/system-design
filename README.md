@@ -57,6 +57,7 @@ git add . && git commit -m "update" && git push
 
     * jpa
     * Implement CQRS Design Pattern with SpringBoot: https://www.youtube.com/watch?v=sthMcMrspCM
+    * https://www.youtube.com/c/DailyCodeBuffer/featured
     * Implementing Microservices tracing with Spring Cloud and Zipkin: https://www.youtube.com/watch?v=vpFL4MZ0jlI
 * Kong
     * kong + springboot : https://www.youtube.com/results?search_query=spring+boot+kong+api+gateway
@@ -67,6 +68,8 @@ git add . && git commit -m "update" && git push
 * Cucumber
 * Terraform
 * Java 11
+* AB Test
+* gRPC and GraphQL 
 * Grafana
 * Premetheus
 * Kibana
