@@ -56,6 +56,7 @@ git add . && git commit -m "update" && git push
         * https://www.youtube.com/watch?v=ZIjqDIdFyBw&list=RDCMUC7yfnfvEUlXUIfm8rGLwZdA&index=12
 
     * jpa
+    * Spring Integration
     * Implement CQRS Design Pattern with SpringBoot: https://www.youtube.com/watch?v=sthMcMrspCM
     * https://www.youtube.com/c/DailyCodeBuffer/featured
     * Implementing Microservices tracing with Spring Cloud and Zipkin: https://www.youtube.com/watch?v=vpFL4MZ0jlI
