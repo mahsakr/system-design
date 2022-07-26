@@ -26,13 +26,8 @@ git add . && git commit -m "update" && git push
 
 ## High Priority
 * Kong POC
+* microservice security
 * New Relic POC
-* Kibana / ELK POC
-* Refund service/flow improvement
-    * discuss with Ireneu , Guilherme, Carlos
-    * issue: lots of pending requests
-    * Refund / Koops
-* MRP
 
 ## daily: 
 * http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html
