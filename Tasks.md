@@ -7,3 +7,7 @@
     * issue: lots of pending requests
     * Refund / Koops
 * MRP
+
+## Current issues:
+
+* eMoney transactions - TMX

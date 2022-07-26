@@ -7,6 +7,12 @@ Learn how to design large-scale systems.
 git add . && git commit -m "update" && git push
 ```
 
+## High Priority
+* Kong POC
+* microservice security
+* New Relic POC
+* ELK POC
+
 # Current Reading
 
 * ByteByteGo: https://bytebytego.com/courses/system-design-interview/design-a-rate-limiter
@@ -23,11 +29,6 @@ git add . && git commit -m "update" && git push
 * https://www.google.com/search?q=system+design+payment&rlz=1C5CHFA_enAE986AE986&oq=sys&aqs=chrome.1.69i57j35i39j0i67i131i433l2j0i433i512j0i131i433i512j0i512j0i131i433i512j0i512j0i131i433i512.3436j0j15&sourceid=chrome&ie=UTF-8
 
 =================================================
-
-## High Priority
-* Kong POC
-* microservice security
-* New Relic POC
 
 ## daily: 
 * http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html
