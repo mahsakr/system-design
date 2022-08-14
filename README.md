@@ -14,7 +14,10 @@ git add . && git commit -m "update" && git push
 * ELK POC
 
 # Current Reading
-
+* https://www.youtube.com/watch?v=XWTrcBqXi6s
+* https://www.youtube.com/watch?v=qi7uR3ItaOY
+* https://www.youtube.com/watch?v=yBNpSqOOoRk
+* 
 * ByteByteGo: https://bytebytego.com/courses/system-design-interview/design-a-rate-limiter
 
 * Spring: https://www.youtube.com/watch?v=CJjHdchLY9Y&list=PLwvrYc43l1MzeA2bBYQhCWr2gvWLs9A7S&index=11
@@ -39,7 +42,6 @@ git add . && git commit -m "update" && git push
 
 
 # To be read
-* Creating event-driven microservices: https://www.youtube.com/watch?v=ksRCq0BJef8
 * https://www.youtube.com/watch?v=hTgff3cJ6AU
 * Building Highly Scalable Retail Order Management Systems with Serverless: https://www.youtube.com/watch?v=1owKl4sGYKg
 * Developing microservices with aggregates - Chris Richardson: https://www.youtube.com/watch?v=7kX3fs0pWwc
@@ -69,6 +71,8 @@ git add . && git commit -m "update" && git push
     * Implementing Microservices tracing with Spring Cloud and Zipkin: https://www.youtube.com/watch?v=vpFL4MZ0jlI
 * Kong
     * kong + springboot : https://www.youtube.com/results?search_query=spring+boot+kong+api+gateway
+    * Kong + NGINX
+* Redis , Amazon ElasticCache
 * Why Event Sourced Systems Fail: https://www.youtube.com/watch?v=FKFu78ZEIi8
 * What is API Idempotency and Why Is It Important?: https://www.youtube.com/watch?v=6pjGuuGsqxE
 * this is my architecture: https://www.youtube.com/watch?v=99nNHsbwBpg
