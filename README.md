@@ -37,7 +37,7 @@ git add . && git commit -m "update" && git push
 * http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html
 
 * Microservices: https://akfpartners.com/growth-blog/category/microservices
-
+* https://www.youtube.com/watch?v=tP9Xnxzwotk&list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar&index=7
 * InfoQ series: daily a talk
 
 

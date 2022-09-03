@@ -25,6 +25,11 @@
 * Knowledge share of new services architectures
 
 # Stearing update
-* MRP issue solution
-* New Relic
-* Refund flow improvement
+- MRP issue solution
+- New Relic
+    - Schedule a meeting for Newrelic with us and SRE
+    - check reports with ahmed
+    - check how to enhance
+- Refund flow improvement
+- Check the Jeninsfile protection from devs access;
+
