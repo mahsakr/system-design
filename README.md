@@ -71,7 +71,7 @@ git add . && git commit -m "update" && git push
     * Implementing Microservices tracing with Spring Cloud and Zipkin: https://www.youtube.com/watch?v=vpFL4MZ0jlI
 * Kong
     * kong + springboot : https://www.youtube.com/results?search_query=spring+boot+kong+api+gateway
-    * Kong + NGINX
+    * Kong + NGINX :  https://www.youtube.com/results?search_query=kong+vs+nginx
 * Redis , Amazon ElasticCache
 * Why Event Sourced Systems Fail: https://www.youtube.com/watch?v=FKFu78ZEIi8
 * What is API Idempotency and Why Is It Important?: https://www.youtube.com/watch?v=6pjGuuGsqxE
